@@ -269,5 +269,38 @@
           "title": "Cuộc thi giữa kì 2 20202",
           "updatedAt": "2021-05-10T14:37:49.091Z"
       }
+  ],
+  "groupQuestion":[
+      {
+          "id": "41654415165",
+          "title":"Cuộc thi đầu kì 1",
+          "description": "sdsasdsadasdsad",
+          "queston":[
+            {
+                "id": "1",
+                "title": "Cau hoi ve tim so nguyen to",
+                "description": "Trong cac so sau, so nao la so nguyen to?",
+                "explain": "So nguyen to la cac so chi cos 2 uoc la 1 va chinh no",
+                "level": "HARD",
+                "answers": [
+                  {
+                    "position": 1,
+                    "content": "4",
+                    "isCorrect": false
+                  },
+                  {
+                    "position": 1,
+                    "content": "6",
+                    "isCorrect": false
+                  },
+                  {
+                    "position": 1,
+                    "content": "11",
+                    "isCorrect": true
+                  },
+                ]
+              }
+          ]
+      }
   ]
   }
